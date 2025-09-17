@@ -1,30 +1,27 @@
-# App Support – [Your App Name]
+# Support Page for Einbürgerungstest | 2025
 
-Welcome to the support page for **[Your App Name]**. We're here to help you get the most out of the app and resolve any issues you may encounter.
+Welcome to the support page for **Einbürgerungstest | 2025**. We’re here to help you get the most out of the app and resolve any issues you may encounter.
 
 ## 📱 Common Issues
 
-- App not launching properly
-- Login or account problems
-- Unexpected crashes or bugs
-
-If you're experiencing any of these, try restarting your device and ensuring you're using the latest version of the app.
+- **App not launching properly**: Ensure your device is compatible and has the latest OS updates.
+- **Unexpected crashes or bugs**: Restart the app and try again. If the issue persists, contact support.
+- **Translation issues**: Ensure you have the latest version of the app for the most accurate translations.
 
 ## 🛠 Troubleshooting Tips
 
-- Make sure your internet connection is stable
-- Check for updates in the App Store
-- Clear app cache (if applicable)
+- **Stable Internet Connection**: Ensure your internet connection is stable for downloading updates and translations.
+- **App Updates**: Check for updates in the App Store to ensure you have the latest version.
 
 ## 📬 Contact Us
 
 If you need further assistance, feel free to reach out:
 
-- Email: [yourname@example.com](mailto:yourname@example.com)
-- GitHub Issues: [Submit a ticket](https://github.com/yourusername/yourrepo/issues)
+- **Email**: [dollar2048@icloud.com](mailto:dollar2048@icloud.com)
+- **GitHub Issues**: [Submit a ticket](https://github.com/dollar2048/einbuergerung/issues)
 
 We typically respond within 24–48 hours.
 
 ---
 
-Thank you for using **[Your App Name]**!
+Thank you for using **Einbürgerungstest | 2025**!
