@@ -1,6 +1,6 @@
 # Support Page for Einbürgerungstest | 2025
 
-Welcome to the support page for **Einbürgerungstest | 2025**. We’re here to help you get the most out of the app and resolve any issues you may encounter.
+Welcome to the support page for **Einbürgerungstest 2025**. We’re here to help you get the most out of the app and resolve any issues you may encounter.
 
 ## 📱 Common Issues
 
@@ -24,4 +24,4 @@ We typically respond within 24–48 hours.
 
 ---
 
-Thank you for using **Einbürgerungstest | 2025**!
+Thank you for using **Einbürgerungstest 2025**!
