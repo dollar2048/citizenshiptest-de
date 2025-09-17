@@ -18,7 +18,7 @@ Welcome to the support page for **Einbürgerungstest 2025**. We’re here to hel
 If you need further assistance, feel free to reach out:
 
 - **Email**: [dollar2048@icloud.com](mailto:dollar2048@icloud.com)
-- **GitHub Issues**: [Submit a ticket](https://github.com/dollar2048/einbuergerung/issues)
+- **GitHub Issues**: [Submit a ticket](https://github.com/dollar2048/citizenshiptest-de/issues)
 
 We typically respond within 24–48 hours.
 
